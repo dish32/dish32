@@ -1,10 +1,6 @@
 <h1 align="center"> I'm Dishani Mampitiya</h1>
 <h3 align="center"> Undergraduate at NIBM</h3>
 <h5 align="center">I'm still learning , I'll keep trying</h5>
-## 🌱 Currently Learning
-![Java](https://img.shields.io/badge/Java-Learning-red?style=for-the-badge&logo=java&logoColor=white)  
-
-
 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dishani-mampitiya-b30593296/](https://www.linkedin.com/in/dishani-mampitiya-b30593296/)
